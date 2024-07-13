@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif">
+<img src="/cat_gif_cp.gif">
 
 ## Hey, Christian here 👋🏼🧑🏼‍💻 !
 I'm a geospatial data analyst and I hold a Master of Science in Remote Sensing, geoInformation and Visualization. I enjoy analyzing various kinds of geodata, and I'm always excited to learn new technologies and improve my skills in this field. And I really like cats 🐱.
