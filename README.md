@@ -1,6 +1,3 @@
-<img src="/cat_gif_cp.gif">
-© Ekaterina Borisova
-
 ## Hey, Christian here 👋🏼🧑🏼‍💻 !
 I'm a geospatial data analyst and I hold a Master of Science in Remote Sensing, geoInformation and Visualization. I enjoy analyzing various kinds of geodata, and I'm always excited to learn new technologies and improve my skills in this field. And I really like cats 🐱.
 
