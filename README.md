@@ -4,7 +4,7 @@ I'm a geospatial data analyst and I hold a Master of Science in Remote Sensing, 
 #### 🌱 About Me
 
 - 🌱 I’m currently learning **HTML and CSS** for web development.
-- 💬 Ask me about **GIS, spatial analysis and remote sensing**.‚
+- 💬 Ask me about **GIS, spatial analysis and remote sensing**.
 - 📫 You can reach me via my <a href="https://www.linkedin.com/in/christian-pfaff/">LinkedIn profile.</a>
 
 #### 🛠️ My Geospatial Toolbox
